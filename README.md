@@ -1,1 +1,1 @@
-# geradorDeSenhas-
+# Gerador de senhas com Javascript
