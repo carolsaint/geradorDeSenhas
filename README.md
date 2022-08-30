@@ -1,3 +1,3 @@
 
-## Safe password generator
+# Safe password generator
 ### Using HTML, CSS and Javascript
