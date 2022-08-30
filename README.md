@@ -1,2 +1,2 @@
-# geradorDeSenhas
-Safe password generator
+
+## Safe password generator using Javascript
